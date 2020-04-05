@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
   <body>
-    <div id="header">
+    <header>
       <h1>Navigational Links</h1>
       <div id="nav">
         <ul>
@@ -12,6 +12,7 @@
           <li><a href="#contact">Contact</a></li>
         </ul>
       </div>
-    </div>
+    </header>
   </body>
+  
 </html>
