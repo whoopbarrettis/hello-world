@@ -19,6 +19,16 @@
     <footer>
       <p>Contact me at +1 234 567 8910 </p>
     </footer>
-    
+    <main>
+  <header>
+    <h1>Types of Sports<h1>
+  </header>
+  <article>
+    <h3>Baseball</h3>
+    <p>
+      The first game of baseball was played in Cooperstown, New York in the summer of 1839.
+    </p>
+  </article>
+</main>
   </body>
 </html>
