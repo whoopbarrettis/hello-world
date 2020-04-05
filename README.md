@@ -5,13 +5,13 @@
   <body>
     <header>
       <h1>Navigational Links</h1>
-      <div id="nav">
+      <nav>
         <ul>
           <li><a href="#home">Home</a></li>
           <li><a href="#posts">Posts</a></li>
           <li><a href="#contact">Contact</a></li>
         </ul>
-      </div>
+      </nav>
     </header>
   </body>
   
