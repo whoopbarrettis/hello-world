@@ -13,9 +13,9 @@
         </ul>
       </nav>
     </header>
-    <div id="main">
+    <main>
       <p>This is where the main content will go once the page is built out!</p>
-    </div>
+    </main>
     <div id="footer">
       <p>Contact me at +1 234 567 8910 </p>
     </div>
