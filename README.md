@@ -16,19 +16,16 @@
     <main>
       <p>This is where the main content will go once the page is built out!</p>
     </main>
+    <main>
+      <div id="section">
+        <h2>Facts About Dogs</h2>
+        <p>
+        Dogs have a sense of time. It's been proven that they know the difference between a hour and five. If conditioned to, they can predict future events, such as regular walk times.
+        </p>
+      </div>   
+    </main>
     <footer>
       <p>Contact me at +1 234 567 8910 </p>
     </footer>
-    <main>
-  <header>
-    <h1>Types of Sports<h1>
-  </header>
-  <article>
-    <h3>Baseball</h3>
-    <p>
-      The first game of baseball was played in Cooperstown, New York in the summer of 1839.
-    </p>
-  </article>
-</main>
   </body>
 </html>
