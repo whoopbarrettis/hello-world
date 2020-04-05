@@ -23,6 +23,11 @@
           <p>A study was conducted on dogs being away from their owners for varying hours and the studies show that dogs who were away from their owners the longest showed the greatest amount of affection!</p> 
         </aside>
       </section>   
+      <figure>
+        <img src="https://i.ytimg.com/vi/C1j0hrEUGzM/maxresdefault.jpg"/>
+        <figcaption>This is a picture of an adult and puppy Bichon Frise.
+        </figcaption>
+      </figure>
     </main>
     <footer>
       <p>Contact me at +1 234 567 8910 </p>
