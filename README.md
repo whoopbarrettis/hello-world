@@ -16,7 +16,9 @@
     <main>
       <section>
         <h2>Facts About Dogs</h2>
-        <p>Dogs have a sense of time. It's been proven that they know the difference between a hour and five. If conditioned to, they can predict future events, such as regular walk times.</p>
+        <article>
+          <p>Dogs have a sense of time. It's been proven that they know the difference between a hour and five. If conditioned to, they can predict future events, such as regular walk times.</p>
+        <article>
       </section>   
     </main>
     <footer>
