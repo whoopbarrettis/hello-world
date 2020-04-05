@@ -16,9 +16,9 @@
     <main>
       <p>This is where the main content will go once the page is built out!</p>
     </main>
-    <div id="footer">
+    <footer>
       <p>Contact me at +1 234 567 8910 </p>
-    </div>
+    </footer>
     
   </body>
 </html>
