@@ -32,11 +32,9 @@
     <h3 class="byline">Article By: Rando Persona</h3>
     <h1>How the Rise of Puppy Adoption Will Lead to Better Health Outcomes for Millenials</h1>
     <h2>The focus on puppy adoption and rescue is rising with millenials</h2>
-    <p>When the first World Cup arrived in the US in the 90's everyone officially declared that soccer was it. Well it's taken it's time but we can definitely see the influence of soccer, especially women's soccer, across the US. This year, 3 million kids
-      played in youth soccer leagues with 2/3 of those leagues for girls. In fact, in the 12-17 age range the MLS has surpassed the MLB and NFL in popularity.</p>
-    <p>Part of this meteoric rise can be attributed to the impressively soaring ad dollars being pumped into the Women's World Cup games in 2014. The women's games generated $40 million for Fox, that's definitely not chump change. And those advertisers,
-      like ATT, Coca Cola, Verizon, Nike, Visa, and other heavy hitters, are working to make sure they see those numbers grow year after year by investing in youth soccer facilities and promoting programs across the country. </p>
-    <p>Now that big business is involved you can be assured you'll see a continued rise in popularity in soccer across the country for years to come. </p>
+    <p>When the first puppy arrived in the US in the 90's everyone officially declared that puppies and dog adoption will decrease with the millenial generation. Well it's taken it's time but we can definitely see the influence of mans best friend, especially with rescue adoption, across the US. This year, 3 million dogs were adopted (I'm making this up) in the US with the majority of adoptions coming from the younger generations. In fact, over 90 percent (again a made up statistic) of the adoptions are cause to celebrate the millenial generation.</p>
+    <p>Part of this meteoric rise can be attributed to the rise in income to our generation, but it is also more apparent that our generation is emblematic of self-definition. In other words, the rise of the 'ok boomer' slur was a response to the infantilizing and paternal condescention to our generation, and the economic indicators not withstanding, we have worked our way to defining our generation for decades to come simply by adopting a furry friend.</p>
+    <p> I can not wait to hear how our love for dogs, avocado toast, and smartphones are the real causes of our economic malaise rather than the not one but two economic distasters less than fifteen years apart in our prime earning and coming of age years; crushing student debt, stagnant wages, underemployment (prior to the crushing depression), and skyrocketing cost of healthcare and housing. Ok Boomers, lets hear it for dog adoption and extra guac. </p>
   </div>
     <footer>
       <p>Contact me at +1 234 567 8910 </p>
